@@ -1,0 +1,20 @@
+{
+	"baseCriteria": {
+		"eventCriteria": [
+			{
+				"has": true,
+				"conceptECL": "<< 69896004"
+			}
+		]
+	},
+	"treatmentCriterion": {
+		"has": true,
+		"conceptECL": "<< 416897008",
+		"withinDaysAfterPreviouslyMatchedEvent": -1
+	},
+	"negativeOutcomeCriterion": {
+		"has": true,
+		"conceptECL": "<< 64572001 : << 363698007 = << 39607008 , << 263502005 = << 90734009",
+		"withinDaysAfterPreviouslyMatchedEvent": -1
+	}
+}

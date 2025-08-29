@@ -1,0 +1,471 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "label": 1,
+      "hash": "7e4947521da7b0f672c492fc035cbb538640b8b1c65c4ac3da6a5f31cc0668cb",
+      "length": 2894,
+      "metadata_ref": 1
+    },
+    {
+      "id": 2,
+      "label": 2,
+      "hash": "cefb0affcceabc3652255424cac51cfd4991216215d80b8dfab22fbacde85c2c",
+      "length": 65,
+      "metadata_ref": 2
+    },
+    {
+      "id": 3,
+      "label": 3,
+      "hash": "31feb3045a34a13943a0cde011b324d15f362973c920481865426a77fc83cd24",
+      "length": 101,
+      "metadata_ref": 3
+    },
+    {
+      "id": 4,
+      "label": 4,
+      "hash": "4e0fbd73380e7d027ed7560891fc15ca23ffe8fb8c3d84343d9692ade553dff9",
+      "length": 68,
+      "metadata_ref": 4
+    },
+    {
+      "id": 5,
+      "label": 5,
+      "hash": "ebe3af2576b9f66d51c98e212489be1420dd4e8cc903c48a3c706064a511b5e6",
+      "length": 103,
+      "metadata_ref": 5
+    },
+    {
+      "id": 6,
+      "label": 6,
+      "hash": "9fbf8d31a3597111c4230c96cfe843d880761831657102a2a909f234ed237894",
+      "length": 73,
+      "metadata_ref": 6
+    },
+    {
+      "id": 7,
+      "label": 7,
+      "hash": "7524d20884a740990e1de3e5f4955660796cb5fa13db5c5cc19c5c235f159440",
+      "length": 102,
+      "metadata_ref": 7
+    },
+    {
+      "id": 8,
+      "label": 8,
+      "hash": "b7638be5aa55f46d18815bd6f3c6fdd0883afea964f4417fc3b783b6dcc2100a",
+      "length": 110,
+      "metadata_ref": 8
+    },
+    {
+      "id": 9,
+      "label": 9,
+      "hash": "fa941b679ac5e49542890c78a8f795422dfc852293dba7aabf982019a7cd6480",
+      "length": 289,
+      "metadata_ref": 9
+    },
+    {
+      "id": 10,
+      "label": 10,
+      "hash": "578a35ceabfef36d223ac8e8e95d9eb649b43b7f9612321a6b368ef5d3359acf",
+      "length": 6630,
+      "metadata_ref": 10
+    }
+  ],
+  "edges": [],
+  "metadata": {
+    "1": {
+      "hash": "7e4947521da7b0f672c492fc035cbb538640b8b1c65c4ac3da6a5f31cc0668cb",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "7e4947521da7b0f672c492fc035cbb538640b8b1c65c4ac3da6a5f31cc0668cb"
+    },
+    "2": {
+      "hash": "cefb0affcceabc3652255424cac51cfd4991216215d80b8dfab22fbacde85c2c",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "cefb0affcceabc3652255424cac51cfd4991216215d80b8dfab22fbacde85c2c"
+    },
+    "611": {
+      "hash": "cefb0affcceabc3652255424cac51cfd4991216215d80b8dfab22fbacde85c2c",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "cefb0affcceabc3652255424cac51cfd4991216215d80b8dfab22fbacde85c2c"
+    },
+    "3": {
+      "hash": "31feb3045a34a13943a0cde011b324d15f362973c920481865426a77fc83cd24",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "31feb3045a34a13943a0cde011b324d15f362973c920481865426a77fc83cd24"
+    },
+    "612": {
+      "hash": "31feb3045a34a13943a0cde011b324d15f362973c920481865426a77fc83cd24",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "31feb3045a34a13943a0cde011b324d15f362973c920481865426a77fc83cd24"
+    },
+    "4": {
+      "hash": "4e0fbd73380e7d027ed7560891fc15ca23ffe8fb8c3d84343d9692ade553dff9",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "4e0fbd73380e7d027ed7560891fc15ca23ffe8fb8c3d84343d9692ade553dff9"
+    },
+    "613": {
+      "hash": "4e0fbd73380e7d027ed7560891fc15ca23ffe8fb8c3d84343d9692ade553dff9",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "4e0fbd73380e7d027ed7560891fc15ca23ffe8fb8c3d84343d9692ade553dff9"
+    },
+    "5": {
+      "hash": "ebe3af2576b9f66d51c98e212489be1420dd4e8cc903c48a3c706064a511b5e6",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "ebe3af2576b9f66d51c98e212489be1420dd4e8cc903c48a3c706064a511b5e6"
+    },
+    "614": {
+      "hash": "ebe3af2576b9f66d51c98e212489be1420dd4e8cc903c48a3c706064a511b5e6",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "ebe3af2576b9f66d51c98e212489be1420dd4e8cc903c48a3c706064a511b5e6"
+    },
+    "6": {
+      "hash": "9fbf8d31a3597111c4230c96cfe843d880761831657102a2a909f234ed237894",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "9fbf8d31a3597111c4230c96cfe843d880761831657102a2a909f234ed237894"
+    },
+    "616": {
+      "hash": "9fbf8d31a3597111c4230c96cfe843d880761831657102a2a909f234ed237894",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "9fbf8d31a3597111c4230c96cfe843d880761831657102a2a909f234ed237894"
+    },
+    "7": {
+      "hash": "7524d20884a740990e1de3e5f4955660796cb5fa13db5c5cc19c5c235f159440",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "7524d20884a740990e1de3e5f4955660796cb5fa13db5c5cc19c5c235f159440"
+    },
+    "582": {
+      "hash": "7524d20884a740990e1de3e5f4955660796cb5fa13db5c5cc19c5c235f159440",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "7524d20884a740990e1de3e5f4955660796cb5fa13db5c5cc19c5c235f159440"
+    },
+    "8": {
+      "hash": "b7638be5aa55f46d18815bd6f3c6fdd0883afea964f4417fc3b783b6dcc2100a",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "b7638be5aa55f46d18815bd6f3c6fdd0883afea964f4417fc3b783b6dcc2100a"
+    },
+    "618": {
+      "hash": "b7638be5aa55f46d18815bd6f3c6fdd0883afea964f4417fc3b783b6dcc2100a",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "b7638be5aa55f46d18815bd6f3c6fdd0883afea964f4417fc3b783b6dcc2100a"
+    },
+    "9": {
+      "hash": "fa941b679ac5e49542890c78a8f795422dfc852293dba7aabf982019a7cd6480",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "fa941b679ac5e49542890c78a8f795422dfc852293dba7aabf982019a7cd6480"
+    },
+    "620": {
+      "hash": "fa941b679ac5e49542890c78a8f795422dfc852293dba7aabf982019a7cd6480",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "fa941b679ac5e49542890c78a8f795422dfc852293dba7aabf982019a7cd6480"
+    },
+    "10": {
+      "hash": "578a35ceabfef36d223ac8e8e95d9eb649b43b7f9612321a6b368ef5d3359acf",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "578a35ceabfef36d223ac8e8e95d9eb649b43b7f9612321a6b368ef5d3359acf"
+    },
+    "621": {
+      "hash": "578a35ceabfef36d223ac8e8e95d9eb649b43b7f9612321a6b368ef5d3359acf",
+      "source_institution": "中国法律法规数据库",
+      "revision_history": [
+        {
+          "timestamp": "2023-01-01",
+          "author": "法律专家团队",
+          "comment": "民法典条款分割完成"
+        },
+        {
+          "timestamp": "2023-01-15",
+          "author": "系统管理员",
+          "comment": "导入系统并生成哈希值"
+        }
+      ],
+      "source_file": "中华人民共和国民法典_条款分割.json",
+      "import_time": "当前时间",
+      "content_checksum": "578a35ceabfef36d223ac8e8e95d9eb649b43b7f9612321a6b368ef5d3359acf"
+    }
+  },
+  "statistics": {
+    "nodes_count": 10,
+    "edges_count": 0,
+    "density": 0,
+    "avg_in_degree": 0.0,
+    "max_in_degree": 0,
+    "max_in_degree_node": 1,
+    "avg_out_degree": 0.0,
+    "max_out_degree": 0,
+    "max_out_degree_node": 1,
+    "top_betweenness_nodes": [
+      [
+        1,
+        0.0
+      ],
+      [
+        2,
+        0.0
+      ],
+      [
+        3,
+        0.0
+      ],
+      [
+        4,
+        0.0
+      ],
+      [
+        5,
+        0.0
+      ]
+    ]
+  }
+}
